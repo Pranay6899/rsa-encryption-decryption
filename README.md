@@ -82,17 +82,3 @@ mvn clean
 <p align="center" >
 	<img src="docs/images/8.png" width="400" />
 </p>
-
-## Additional Notes
-
-- http://doctrina.org/How-RSA-Works-With-Examples.html
-
-> This source was used to better understand how RSA encryption works and how the key generation process works.
-
-- http://www.tutorialspoint.com/java_xml/java_dom_create_document.htm
-
-> This source was used to learn how to parse and write XML files in the Java language.
-
-- https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/fast-modular-exponentiation
-
-> This source was used to better explain how to expand a exponential operation using the Eclidean explansion algorithm.
