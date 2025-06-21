@@ -1,8 +1,5 @@
 # RSA Encryption
-> Implementation of the RSA encryption algorithm using big-integer algebra algorithms
 
-![MIT License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge)
-![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-lightgrey.svg?style=for-the-badge)
 
 <p align="center" >
 	<img src="docs/images/1.png" width="600" />
